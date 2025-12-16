@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f2b7f52e74bfaa4ca710638e49875c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131623
+  packageName: First person narrative adventures + complete puzzle engine
+  packageVersion: 1.1.2
+  assetPath: Assets/AP/Assets/Datas/Default/TextList/wUI.asset
+  uploadId: 710479

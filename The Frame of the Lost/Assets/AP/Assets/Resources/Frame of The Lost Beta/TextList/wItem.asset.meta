@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fdfbab63c53bdcc48bb69e5f8fe5a172
+timeCreated: 1514552466
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131623
+  packageName: First person narrative adventures + complete puzzle engine
+  packageVersion: 1.1.2
+  assetPath: Assets/AP/Assets/Datas/Default/TextList/wItem.asset
+  uploadId: 710479
