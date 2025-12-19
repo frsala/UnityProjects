@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af951ef739eb22d4db06b3df928cb125
+timeCreated: 1514552466
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131623
+  packageName: First person narrative adventures + complete puzzle engine
+  packageVersion: 1.1.2
+  assetPath: Assets/AP/Assets/Datas/Default/TextList/wTextnVoices.asset
+  uploadId: 710479

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be7b165bcae9e7b419db86bfd66a8a09
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131623
+  packageName: First person narrative adventures + complete puzzle engine
+  packageVersion: 1.1.2
+  assetPath: Assets/AP/Assets/Scenes/Default/00_MainMenu.unity
+  uploadId: 710479
