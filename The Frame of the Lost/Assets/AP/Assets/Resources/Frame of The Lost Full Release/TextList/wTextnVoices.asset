@@ -15,45 +15,12 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - Title
-      diaryTextDisplayState: 00
-      diaryText:
-      - New Page
-      diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 8300000, guid: 0bb38877093e14025bb76c8d28cbcc36, type: 3}
-      - {fileID: 0}
-      diarySub:
-      - showMore: 000000
-        startPointsClip:
-        - 1.4657596
-        - 7.3287983
-        - 14.700047
-        firstLetter:
-        - 0
-        - 5
-        - 11.286307
-        lastLetter: 050000000400000005000000
-        bypasstextLayout: 010101
-        textSub:
-        - "Salut! Capcom a d\xE9taill\xE9 la nouvelle \xE9dition de street fighter
-          5."
-        - "Globalement annonc\xE9e pour le 16 f\xE9vrier prochain"
-        - Alors accrochez vous
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 0
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "\xBFPan?"
+      - Empieza la aventura
       diaryTextDisplayState: 01
       diaryText:
-      - "Rec0rdar: Compr4r pan en la estac1\xF3n esp4cial.\n\r\n"
+      - "Por f1n consegu\xED una nave espacial y una tripulaci\xF3n para emprender
+        ese viaje que t4nto necesitaba.\n\nSi mis c\xE1lcul0s no me fallan, llegaremos
+        en un par de semanas a nuestro d3stino."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -72,15 +39,15 @@ MonoBehaviour:
       showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 1
+      uniqueItemID: 17
       itemType: 0
       audioPriority: 0
     - diaryTitle:
       - Tarea I
       diaryTextDisplayState: 01
       diaryText:
-      - "Hola, Dalvoir. \r\n\r\nTienes que reparar la sala de drenaje, suerte con
-        ello. Recuerda por qu\xE9 est\xE1s haciendo esto.\r\n"
+      - "Hola, Dalvoir. \n\nUna de las tuber\xEDas principales de la sala de drenaje
+        necesita reparaci\xF3n.\n\nSuerte con ello.\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -99,18 +66,16 @@ MonoBehaviour:
       showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 2
+      uniqueItemID: 16
       itemType: 0
       audioPriority: 0
     - diaryTitle:
       - "Memorias de la expedici\xF3n I"
       diaryTextDisplayState: 01
       diaryText:
-      - "\xA1Bua! \r\n\r\nAl final el impulsivo de Dalvoir ten\xEDa raz\xF3n, y c\xF3mo
-        me alegra eso. Ese planeta estaba lleno de riqueza. Tengo unas ganas tremendas
-        de volver a casa y ense\xF1ar todo lo que he conseguido. \r\n\r\nA\xFAn as\xED\u2026
-        no puedo dejar de pensar en Morbus. Cuando muri\xF3 all\xED\u2026 algo de
-        m\xED se fue con \xE9l.\r\n"
+      - "\xA1Bua! \r\n\r\nAl final Dalvoir ten\xEDa raz\xF3n, y c\xF3mo me alegra
+        eso. \xA1Ese planeta estaba lleno de riqueza!\n\nTengo unas ganas tremendas
+        de volver a casa y ense\xF1ar a mi familia todo lo que he conseguido. \r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -129,18 +94,18 @@ MonoBehaviour:
       showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 3
+      uniqueItemID: 18
       itemType: 0
       audioPriority: 0
     - diaryTitle:
       - "Discusi\xF3n"
       diaryTextDisplayState: 01
       diaryText:
-      - "Pff, \n\n\xA1no s\xE9 por qu\xE9 son tan ego\xEDstas! Despu\xE9s de la expedici\xF3n
+      - "Pff, \xA1no s\xE9 por qu\xE9 son tan ego\xEDstas! \n\nDespu\xE9s de la expedici\xF3n
         y de que Dalvoir se encerrara en su cuarto, la tripulaci\xF3n est\xE1 que
         echa humo, y encima varios miembros dicen que no se encuentran bien para
         hacer sus tareas. \n\nMe han dicho que tengo que asumir el cargo de gestor
-        de drenaje y eso que no soy ni fontanero.\r\n"
+        de drenaje y eso que no soy ni fontanero."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -159,44 +124,14 @@ MonoBehaviour:
       showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 4
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - EXO-SHELL
-      diaryTextDisplayState: 01
-      diaryText:
-      - "La nave espacial Exo Shell en la que nos encontramos, fue construida en
-        el invierno de un a\xF1o indeterminado con el principal prop\xF3sito de servir
-        de transporte en las expediciones espaciales. \n\nExo Shell requiere de un
-        mantenimiento regular en la mayor\xEDa de sus instalaciones. \n\nNo la manipule
-        sin los conocimientos adecuados.\r\n"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 5
+      uniqueItemID: 19
       itemType: 0
       audioPriority: 0
     - diaryTitle:
       - "\xBFDemasiada paz?"
       diaryTextDisplayState: 01
       diaryText:
-      - Por fin un lugar para alejarme entre tanto caos.
+      - Por fin un lugar tranquilo para descansar entre tanto caos
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -215,284 +150,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 6
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Tarea II
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Hola, Dalvoir. Tienes que reactivar la sala del generador, suerte con ello.
-        Recuerda por qu\xE9 est\xE1s haciendo esto.\r\n"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 7
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Memorias de la expedici\xF3n II"
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Mira que sab\xEDa que ir de excursi\xF3n a un planeta que nadie ha pisado
-        nunca no era buena idea. \n\nNo s\xE9 para qu\xE9 le hice caso a Dalvoir,
-        si desde el primer momento se notaba que estaba grillado. \n\nAhora todos
-        estamos enfermos en la nave y \xE9l encerrado en su cuarto desde que volvimos
-        de investigar.\r\n"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 8
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Declive
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Mantengo el generador en marcha, pero nadie parece darse cuenta. Cada d\xEDa
-        entran m\xE1s en esa sala, cada d\xEDa salen menos. \n\nYo tambi\xE9n toso.\r\n"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 9
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Diagn\xF3stico Paciente"
-      diaryTextDisplayState: 01
-      diaryText:
-      - "La salud de los afectados est\xE1 d\xEDa tras d\xEDa en declive.\n\nSe les
-        recomienda reposo en sus camarotes y acudir de nuevo en caso de empeoramiento."
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Escasez de recursos
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Cada vez m\xE1s tripulantes de la nave se ven afectados por la enfermedad.\n\nA
-        partir de hoy, quien requiera de tratamiento deber\xE1 financiarlo por su
-        propia cuenta debido a la escasez de recursos m\xE9dicos."
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 11
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Sin medicinas
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Tanto los analg\xE9sicos como los antinbi\xF3ticos se han agotado"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 12
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - No pasar
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Debido al colapso de demanda de medicamentos y cuidados m\xE9dicos,  cerraremos
-        indefinidamente. \n\nPermaneced en vuestros camarotes a no ser que la urgencia
-        supere la necesidad de acudir."
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Protesta
-      diaryTextDisplayState: 01
-      diaryText:
-      - "\xA1Necesitamos atenci\xF3n m\xE9dica!\n\nNo podremos aguantar mucho m\xE1s
-        en estas condiciones"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - The Cure
-      diaryTextDisplayState: 01
-      diaryText:
-      - '-NaHr-CDs-UF-NaSb-                 -CHr-USb-NaDs-CF-
-
-
-        -CHr-NaDs-USb-CF-                  
-        -UF-CHr-NaSb-CDs-
-
-
-        -UF-NaHr-CDs-USb-                   -CSb-NaHr-UDs-CF-
-
-
-        -NaF-CHr-UDs-CSb-                  
-        -NaDs-UF-CHr-CSb-
-
-
-        -CDs-UHr-NaSb-CF-                   -CHr-CF-NaSb-UDs-
-
-
-        -USb-NaF-CHr-CDs-                  
-        -UF-CSb-NaHr-CDs-
-
-
-        -NaHr-UF-CSb-CDs-                   -NaSb-CHr-UF-CDs-
-
-
-        -CF-NaDs-UHr-CSb-                   
-        UF CHr UDs NaSb
-
-
-        -UDs-NaSb-CHr-CF-
-
-
-        -NaF-CDs-UHr-CSb-'
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 15
+      uniqueItemID: 20
       itemType: 0
       audioPriority: 0
   helpBoxEditor: 1
@@ -507,7 +165,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 15
+  selectedID: 4
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 1
   editorType: 0
