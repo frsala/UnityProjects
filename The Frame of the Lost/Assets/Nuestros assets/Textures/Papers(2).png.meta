@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 846ab73875981f1489875001658b8094
-AssetOrigin:
-  serializedVersion: 1
-  productId: 131623
-  packageName: First person narrative adventures + complete puzzle engine
-  packageVersion: 1.1.2
-  assetPath: Assets/AP/Assets/Textures/Textures_Mat/01_UVs/Uvs_Wall_Albedo.psd
-  uploadId: 710479
+guid: f416cdc0011389743b814c95392ed5d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -70,9 +63,9 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
@@ -86,7 +79,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -99,7 +92,7 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []

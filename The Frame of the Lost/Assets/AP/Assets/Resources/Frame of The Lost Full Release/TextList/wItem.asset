@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -36,6 +37,62 @@ MonoBehaviour:
       uniqueItemID: 0
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Calavera Falsa
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Una calavera falsa que aparenta tener alg\xFAn tipo de chip, quizas pueda
+        desbloquear algo."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: 46ecdcfdccc2c9049834baefafc09e87, type: 3}
+      refGameObject: {fileID: 8153547440946589218, guid: 387f703601315ed44ad0ac4f6196065c,
+        type: 3}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 295.09647, y: 180, z: 217.11314}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - La Cura
+      diaryTextDisplayState: 01
+      diaryText:
+      - "La cura a tu enfermedad, sientes que la llevas buscando desde antes de estar
+        enfermo por alguna raz\xF3n."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 21300000, guid: 834ba1f494ac2f349947bc6bfb1da844, type: 3}
+      refGameObject: {fileID: 3625193665653910719, guid: 3006b1a5692515247a3d8a4a21f81df2,
+        type: 3}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 295.09647, y: 180, z: 217.11314}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -48,9 +105,11 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 50
-  selectedID: 0
+  selectedID: 2
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 1
   showDefaultLanguage: 0
   multipleVoiceOver: 0
+  b_ShowEye: 0
+  b_UI_DisplayTextArea: 0
