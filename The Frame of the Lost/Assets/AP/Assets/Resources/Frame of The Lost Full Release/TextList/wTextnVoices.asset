@@ -153,6 +153,34 @@ MonoBehaviour:
       uniqueItemID: 20
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Cure Tests
+      diaryTextDisplayState: 01
+      diaryText:
+      - "H-Na-C-Sb-I-H-\n\nU-Rg-Ne-C-Y-Na-\n\nSb-H-H-I-X\xD8-C-\n\nNa-Y-Rg-U-C-Ne-H-\n\nI-Sb-Na-Na-C-Y-\n\nDs-U-H-Rg-I-Ne-\n\nC 
+        U  X\xD8  Rg  Ne  \n\n\n\n\n\n\n\n\n                                                                                    
+        Page 374"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 21
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -165,7 +193,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 4
+  selectedID: 5
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 1
   editorType: 0

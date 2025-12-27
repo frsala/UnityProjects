@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AP/Assets/Scenes/Frame of The Lost Full Release/03_Level.unity
     guid: 9925721b3affbe54b88808a7bc34409c
+  - enabled: 1
+    path: Assets/AP/Assets/Scenes/Frame of The Lost Full Release/04_Level.unity
+    guid: 88a1ae1f10a96f947831467fed7fc63f
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
