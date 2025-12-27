@@ -2402,7 +2402,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Press any key to continue
+      - Pulsa cualquier tecla para continuar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2428,7 +2428,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - The End
+      - Fin del juego
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -3037,7 +3037,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 93
+  selectedID: 87
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
