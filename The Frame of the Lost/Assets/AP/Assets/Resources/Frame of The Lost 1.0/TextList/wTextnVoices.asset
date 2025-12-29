@@ -75,7 +75,7 @@ MonoBehaviour:
       diaryText:
       - "\xA1Bua! \r\n\r\nAl final Dalvoir ten\xEDa raz\xF3n, y c\xF3mo me alegra
         eso. \xA1Ese planeta estaba lleno de riqueza!\n\nTengo unas ganas tremendas
-        de volver a casa y ense\xF1ar a mi familia todo lo que he conseguido.  !SOMOS
+        de volver a casa y ense\xF1ar a mi familia todo lo que he conseguido.  \n\n\xA1SOMOS
         RICOS!\r\n"
       diaryAudioClip:
       - {fileID: 0}
@@ -259,7 +259,7 @@ MonoBehaviour:
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
-      showInInventory: 0
+      showInInventory: 1
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 25
@@ -435,7 +435,7 @@ MonoBehaviour:
       - No entres.
       diaryTextDisplayState: 01
       diaryText:
-      - "Aqu\xED no debes entrar bajo ningun concepto Dalvoir.\r\n"
+      - "Aqu\xED no debes entrar bajo ningun concepto, Dalvoir.\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -844,7 +844,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 28
+  selectedID: 5
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 1
   editorType: 0
