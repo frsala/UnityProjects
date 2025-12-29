@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: ProjectManagerDatas
   m_EditorClassIdentifier: 
   helpBoxEditor: 0
-  currentDatasProjectFolder: Frame of The Lost Full Release
-  int_CurrentDatasProjectFolder: 3
+  currentDatasProjectFolder: Frame of The Lost 1.0
+  int_CurrentDatasProjectFolder: 0
   int_CurrentDatasSaveSystem: 1
-  s_newProjectName: Frame of The Lost Full Release
+  s_newProjectName: Frame of The Lost 1.0
   languageList:
   - Default
   s_newLanguageName: French
   firstSceneBuildInIndex: 1
   buildinList:
-  - 00_MainMenu
-  - 01_DefaultScene
-  - 02_Level
-  - 03_Level
   - 04_Level
+  - 03_Level
+  - 02_Level
+  - 01_DefaultScene
+  - 00_MainMenu
   newSceneName: Level
   specificChar: \
