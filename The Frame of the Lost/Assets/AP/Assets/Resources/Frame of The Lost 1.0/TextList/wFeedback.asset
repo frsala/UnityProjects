@@ -67,7 +67,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Una maquina arcade?
+      - "\xBFUna maquina arcade?"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -145,7 +145,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - No se por que no me desago de esta foto.
+      - "No se por qu\xE9 no me deshago de esta foto."
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -327,7 +327,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Yo no investigue estas flores para mi cura.
+      - "Yo no investigu\xE9 estas flores para MI cura."
       diaryTextDisplayState: 01
       diaryText:
       - New description
