@@ -15,7 +15,7 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - New in Inventory
+      - Nuevo en inventario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -41,7 +41,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'New in Diary :'
+      - 'Nuevo en diario: '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -67,7 +67,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Button 01
+      - "Bot\xF3n 1"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -160,7 +160,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Back
+      - Atras
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -186,7 +186,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inventory
+      - Inventario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -212,7 +212,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - English Info
+      - "Informaci\xF3n Espa\xF1ol"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -296,7 +296,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Loading
+      - Cargando
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -322,7 +322,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - You are Here
+      - "Estas aqu\xED"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -348,7 +348,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Diary
+      - Diario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -374,7 +374,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Show
+      - Mostrar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -400,7 +400,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Welcome to Hell !!!!!!!
+      - Vienvenido al infierno!!!!
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -426,7 +426,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Game
+      - Nueva Partida
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -452,7 +452,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Options
+      - Opciones
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -478,7 +478,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Exit
+      - Salir
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -504,7 +504,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Load
+      - Cargar Partida
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -530,7 +530,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit
+      - "Cr\xE9ditos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -556,7 +556,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your load :'
+      - 'Escoge espacio de carga:'
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -582,7 +582,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your slot :'
+      - 'Escoge tu espacio:'
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -608,7 +608,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Select an option
+      - "El\xEDge una opci\xF3n."
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -634,7 +634,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit List
+      - "Lista de cr\xE9ditos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -660,7 +660,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Empty
+      - "Vac\xEDo"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -686,7 +686,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Yes
+      - Si
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -738,7 +738,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Slot already exist :'
+      - 'El espacio de guardado ya existe: '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -764,7 +764,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Do you want to delete it ?
+      - Quieres borrarlo?
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -816,7 +816,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left Clic Rotate
+      - Click izquierdo rotar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -842,7 +842,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right Clic Back
+      - "Click derecho sal\xEDr"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -868,7 +868,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Slide Rotate
+      - Deslizar para rotar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -894,7 +894,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Double Tap Back
+      - Doble click para regresar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -946,7 +946,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Save
+      - Guardar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -972,7 +972,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Go To Main Menu
+      - Volver al menu principal
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -998,7 +998,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Are you sure ?
+      - Estas seguro?
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1024,7 +1024,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward
+      - Adelante
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1050,7 +1050,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Backward
+      - Atras
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1076,7 +1076,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left
+      - Izquierda
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1102,7 +1102,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right
+      - Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1128,7 +1128,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Resume
+      - Continuar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1180,7 +1180,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Quality
+      - Calidad
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1206,7 +1206,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics
+      - "Gr\xE1ficos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1232,7 +1232,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inputs
+      - Entradas
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1258,7 +1258,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Game Options
+      - Opciones de juego
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1310,7 +1310,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Keyboard
+      - Teclado
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1362,7 +1362,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward/Backward
+      - Adelante/Atras
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1388,7 +1388,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Move Left/Right
+      - Mover Izquierda/Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1414,7 +1414,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Movement sensibility
+      - Sensibilidad de movimiento
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1440,7 +1440,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Look Up/Down
+      - Mirar Arriba/Abajo
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1466,7 +1466,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Look Left/Right
+      - Mirar Izquierda/Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1492,7 +1492,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Look sensibility
+      - Sensibilidad
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1518,7 +1518,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inventory
+      - Inventario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1544,7 +1544,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Diary
+      - Diario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1570,7 +1570,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Back
+      - Atras
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1596,7 +1596,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Pause
+      - Pausar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1622,7 +1622,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Validate
+      - Confirmar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1648,7 +1648,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward
+      - Avanzar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1674,7 +1674,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Backward
+      - Retroceder
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1700,7 +1700,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left
+      - Izquierda
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1726,7 +1726,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right
+      - Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1752,7 +1752,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Mouse sensibility
+      - "Sensibilidad de rat\xF3n"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1882,7 +1882,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics Options
+      - "Opciones Gr\xE1ficas"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1908,7 +1908,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very Low
+      - Muy Bajo
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1934,7 +1934,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Low
+      - Bajo
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1960,7 +1960,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Medium
+      - Medio
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -1986,7 +1986,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - High
+      - Alto
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2012,7 +2012,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very High
+      - Muy Alto
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2064,7 +2064,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Validate
+      - Confirmar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2116,7 +2116,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Music
+      - Musica
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2168,7 +2168,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice
+      - Voz
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2220,7 +2220,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Ambiance
+      - Ambiente
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2246,7 +2246,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Master
+      - General
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2272,7 +2272,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Reset
+      - Reinciar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2298,7 +2298,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Save Complete
+      - -placeholder
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2324,7 +2324,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Subtitles
+      - "Subt\xEDtulos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2376,7 +2376,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Press Back to Exit
+      - "Pulsa atras para sal\xEDr"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2454,7 +2454,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Next
+      - Siguiente
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2480,7 +2480,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Crouch
+      - Agacharse
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2506,7 +2506,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Run
+      - Correr
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2532,7 +2532,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Flashlight
+      - Linterna
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -2558,7 +2558,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Jump
+      - Saltar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3037,7 +3037,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 11
+  selectedID: 93
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2

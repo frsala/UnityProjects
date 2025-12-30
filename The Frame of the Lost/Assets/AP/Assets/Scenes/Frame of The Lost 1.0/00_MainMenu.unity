@@ -1225,6 +1225,12 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114391803303504122, guid: bf5ed656b9c2b494cacce6f32339e32c,
+        type: 3}
+      propertyPath: textList
+      value: 
+      objectReference: {fileID: 11400000, guid: d33706b6a394ad443ad6771170ac03e7,
+        type: 2}
     - target: {fileID: 114936464158635160, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
       propertyPath: CurrentPage
@@ -1233,7 +1239,7 @@ PrefabInstance:
     - target: {fileID: 224038529422647128, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -9.000183
+      value: -9.000275
       objectReference: {fileID: 0}
     - target: {fileID: 224516100504319370, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
@@ -2763,7 +2769,7 @@ PrefabInstance:
     - target: {fileID: 224245379799623584, guid: 24846ec923f5e4c11a0f12d733247d8e,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 21.999939
+      value: 21.999756
       objectReference: {fileID: 0}
     - target: {fileID: 224958991452448966, guid: 24846ec923f5e4c11a0f12d733247d8e,
         type: 3}
@@ -4651,11 +4657,23 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 1082335994}
+    - target: {fileID: 114237156660651238, guid: 86d4fd10d45b34bedb2fc26aacd888a7,
+        type: 3}
+      propertyPath: textList
+      value: 
+      objectReference: {fileID: 11400000, guid: d33706b6a394ad443ad6771170ac03e7,
+        type: 2}
     - target: {fileID: 114307779227926854, guid: 86d4fd10d45b34bedb2fc26aacd888a7,
         type: 3}
       propertyPath: m_Transition
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114836327530311146, guid: 86d4fd10d45b34bedb2fc26aacd888a7,
+        type: 3}
+      propertyPath: textList
+      value: 
+      objectReference: {fileID: 11400000, guid: d33706b6a394ad443ad6771170ac03e7,
+        type: 2}
     - target: {fileID: 224337416640584332, guid: 86d4fd10d45b34bedb2fc26aacd888a7,
         type: 3}
       propertyPath: m_AnchorMax.x
