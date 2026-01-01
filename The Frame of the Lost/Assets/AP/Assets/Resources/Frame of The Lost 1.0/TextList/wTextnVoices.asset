@@ -549,7 +549,7 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "H-Na-C-Sb-I-H-\n\r\nU-Rg-Ne-C-Y-Na-\n\r\nSb-H-H-I-X\xD8-C-\n\r\nNa-Y-Rg-U-C-Ne-H-\n\r\nI-Sb-Na-Na-C-Y-\n\r\nDs-U-H-Rg-I-Ne-\n\r\nC 
-        U  X\xD8  Rg  Ne"
+        U  X\xD8  Rg  Ne     \xBF ?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -642,8 +642,8 @@ MonoBehaviour:
         -CHr-USb-NaDs-CF-\r\n\r\n-CHr-NaDs-USb-CF-                   -UF-CHr-NaSb-CDs-\r\n\r\n-UF-NaHr-CDs-USb-                  
         -CSb-NaHr-UDs-CF-\r\n\r\n-NaF-CHr-UDs-CSb-                   -NaDs-UF-CHr-CSb-\r\n\r\n-CDs-UHr-NaSb-CF-                  
         -CHr-CF-NaSb-UDs-\r\n\r\n-USb-NaF-CHr-CDs-                   -UF-CSb-NaHr-CDs-\r\n\r\n-NaHr-UF-CSb-CDs-                  
-        -NaSb-CHr-UF-CDs-\r\n\r\n-CF-NaDs-UHr-CSb-                    UF CHr UDs
-        NaSb\r\n\n\n                                    P\xC1GINA N\xBA128\r\n"
+        -NaSb-CHr-UF-CDs-\r\n\r\n-CF-NaDs-UHr-CSb-                   -UF-CHr-Ds-Sb-Na-\r\n\n\n                                   
+        P\xC1GINA N\xBA128\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -832,6 +832,32 @@ MonoBehaviour:
       uniqueItemID: 46
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Algo de paz
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 47
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -844,7 +870,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 2
+  selectedID: 4
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 1
   editorType: 0
